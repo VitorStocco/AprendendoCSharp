@@ -42,6 +42,8 @@ namespace Exerciocios
             int idade = 100;
             Console.WriteLine(saudacao + nome + continuacao + idade);
 
+            // teste do GIT
+
 
             Console.ReadLine();
         }
